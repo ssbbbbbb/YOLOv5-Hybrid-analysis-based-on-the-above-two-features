@@ -9,7 +9,7 @@ python code/image_cover.py
 output image
 ```
 
-##第二步
+## 第二步
 把圖片統一大小成640*640
 ```
 input image
@@ -17,7 +17,7 @@ python code/resize.py
 output image1
 ```
 
-##第三步
+## 第三步
 用yolov5訓練分類
 ```
 input train
