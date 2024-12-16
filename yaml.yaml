@@ -1,0 +1,6 @@
+path: C:/yolov5/train  # 資料集的根目錄
+train: C:/yolov5/train/images/train
+val: C:/yolov5/train/images/val
+
+nc: 5  # 類別數量
+names: ['1clickdownload', 'bettersurf', 'delbar', 'fujacks', 'vtflooder']  # 類別名稱
