@@ -7,6 +7,7 @@ API picture
 ![Accuracy](/report_6_processed.png)
 
 灰階圖片
+
 ![Accuracy](/dump_sorted_6_hex.png)
 ```
 input 1
