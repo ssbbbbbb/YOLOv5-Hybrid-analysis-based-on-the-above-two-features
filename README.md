@@ -17,7 +17,7 @@ input image
 python code/resize.py
 output image1
 ```
-![Accuracy](/image1/1clickdownload/1(1).png)
+![Accuracy](/image1/1.png)
 
 ## 第三步
 用yolov5訓練分類
