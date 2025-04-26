@@ -2,6 +2,8 @@
 
 ## 第一步
 把從封包提取的灰階圖透明度降低50%後，蓋在API產生的圖片上
+![Accuracy](/1/report_6_processed.png)
+![Accuracy](/2/report_6_processed.png)
 ```
 input 1
 input 2
