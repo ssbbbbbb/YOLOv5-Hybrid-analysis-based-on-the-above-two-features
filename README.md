@@ -2,7 +2,11 @@
 
 ## 第一步
 把從封包提取的灰階圖透明度降低50%後，蓋在API產生的圖片上
+
+API picture
 ![Accuracy](/report_6_processed.png)
+
+灰階圖片
 ![Accuracy](/dump_sorted_6_hex.png)
 ```
 input 1
