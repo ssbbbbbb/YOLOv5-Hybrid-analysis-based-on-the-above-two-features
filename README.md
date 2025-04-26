@@ -8,7 +8,7 @@ input 2
 python code/image_cover.py
 output image
 ```
-
+![Accuracy](/1/report_6_processed.png)
 ![Accuracy](/2/dump_sorted_6_hex.png)
 ![Accuracy](/image/1clickdownload/dump_sorted_10_hex.png)
 
